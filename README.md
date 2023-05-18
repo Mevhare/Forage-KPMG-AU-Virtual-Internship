@@ -19,7 +19,7 @@ The client provided KPMG with 4 datasets:
 
 Dataset link: [Sprocket Customer Data](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Data/KPMG_Sprocket_raw_data.xlsx)
 
-Report Link: [Data Quality Accessment Email](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%201/Mevhare_Afe_Report_E-mail.docx)
+Report Link: [Data Quality Accessment Email](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%201/Mevhare_Afe_Report_E-mail.pdf)
 
 
 # Task 2 : Data Insights
@@ -29,7 +29,29 @@ Using the existing 3 datasets (Customer demographic, customer address and transa
 
 In building this recommendation, we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 
-Data Cleaning: 
+## Data Cleaning and Transformation:
+
+#### Customer Demographic
+- Created age column from the DOB column.
+- Filtered out ages greater than 91.
+- Filtered out blanks in job title column.
+- Deleted default column.
+- Filtered out deceased customers.
+
+#### Customer Address
+- Corrected inconsistency in state column to ensure it only contains 3 states; VIC,NSW and QLD.
+
+#### Transactions
+- Filtered out blanks in online order column.
+- Filterd out cancelled orders in order status column.
+- Filtered out blank brands.
+- Corrected product first sold format to date.
+- Created profit column by subtracting standard cost from the list price.
+
+#### New Customers
+- Filtered out blank records in the DOB column.
+- Filtered out blank records job title column.
+
 
 # Task 3
  
