@@ -33,7 +33,7 @@ In building this recommendation, we need to start with a PowerPoint presentation
 
 #### Customer Demographic
 - Corrected inconsistency in gender column to ensure it only contains 3 enteries; Male, Female and U.
-- Created age column from the DOB column.
+- Calculated age column from the DOB column.
 - Filtered out ages greater than 91.
 - Filtered out blanks in job title column.
 - Deleted default column.
@@ -47,7 +47,7 @@ In building this recommendation, we need to start with a PowerPoint presentation
 - Filterd out cancelled orders in order status column.
 - Filtered out blank brands.
 - Corrected product first sold format to date.
-- Created profit column by subtracting standard cost from the list price.
+- Calculated profit column by subtracting standard cost from the list price.
 
 #### New Customers
 - Filtered out blank records in the DOB column.
