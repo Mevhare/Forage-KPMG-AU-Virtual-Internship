@@ -73,7 +73,7 @@ Using Python, each customer was assigned to 4 groups;
 |2|Lost|These customers have the poorest scores across all three metrics (recency, frequency, and monetary value). They are characterized by poor recency (131.7), low frequency (2.2), and low monetary value (591.4). They represent customers who were once active but have become disengaged.|
 |3|Loyal |These customers have a moderate recency score (62.8) but a high frequency (7.1) and high monetary value (4245.9). They are often spending good money on your products and are responsive to promotions.|
 
-If you are interested in the full analysis, click [here.](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%202/Sprocket_Customer_Segmentation_KMeans.ipynb)
+If you are interested in the full analysis, [click here.](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%202/Sprocket_Customer_Segmentation_KMeans.ipynb)
 
 ## Presentation
 A powerpoint report was made on Data Exploration; Model Development and Interpretation. 
