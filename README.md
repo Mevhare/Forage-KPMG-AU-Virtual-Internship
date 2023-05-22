@@ -1,7 +1,7 @@
 # KPMG Australia Virtual Internship
 ![KPMG logo](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Images/KPMG_logo.jpg)
 
-This project was carried out as a requirement of the KPMG Data Analytics Virtual Internship in collaboration with Forage. I would like to specially thank KPMG Australia for giving me this opportunity to learn and also showcase my data analytics skills. For more information on the internship click [here](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
+This project was carried out as a requirement of the KPMG Data Analytics Virtual Internship in collaboration with Forage. I would like to specially thank KPMG Australia for giving me this opportunity to learn and also showcase my data analytics skills. For more information on the internship [click here.](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
 
 # Introduction
 <img src= "https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Images/Sprocket_logo.png" width="600" height="300">
