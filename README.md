@@ -32,25 +32,29 @@ In building this recommendation, we need to start with a PowerPoint presentation
 ## Data Cleaning and Transformation:
 
 #### Customer Demographic
-- Created age column from the DOB column.
+- Corrected inconsistency in gender column to ensure it only contains 3 enteries; Male, Female and U.
+- Calculated age column from the DOB column.
 - Filtered out ages greater than 91.
 - Filtered out blanks in job title column.
 - Deleted default column.
 - Filtered out deceased customers.
 
 #### Customer Address
-- Corrected inconsistency in state column to ensure it only contains 3 states; VIC,NSW and QLD.
+- Corrected inconsistency in state column to ensure it only contains 3 enteries; VIC, NSW and QLD.
 
 #### Transactions
 - Filtered out blanks in online order column.
 - Filterd out cancelled orders in order status column.
 - Filtered out blank brands.
 - Corrected product first sold format to date.
-- Created profit column by subtracting standard cost from the list price.
+- Calculated profit column by subtracting standard cost from the list price.
 
 #### New Customers
 - Filtered out blank records in the DOB column.
 - Filtered out blank records job title column.
+
+### Merging Tables
+After cleaning the data, The Customer Demographic table and Customer Address table was merged with the Transaction table using inner join in Power Query to get the "All Data" table. All data table contains 16,940 records compared to the original 20,000 records in the Transaction table.
 
 
 # Task 3
