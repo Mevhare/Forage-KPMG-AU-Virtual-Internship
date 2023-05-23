@@ -61,7 +61,7 @@ In this context, we will employ the K-means clustering algorithm using RFM (Rece
 Using Pivot tables in Excel, a new sheet was created for RFM values for each customer in our data
 ![RFM_image](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%202/Images/RFM_table_excel.png)
 
-Using Python, each customer was assigned to 4 groups;
+After analysis, each customer segment was assigned titles;
 
 |Cluster|Label|Description|
 |:----|:----|:----|
