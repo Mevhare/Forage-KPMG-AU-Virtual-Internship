@@ -53,9 +53,6 @@ In building this recommendation, we need to start with a PowerPoint presentation
 - Filtered out blank records in the DOB column.
 - Filtered out blank records job title column.
 
-### Merging Tables
-After cleaning the data, The Customer Demographic table and Customer Address table was merged with the Transaction table using inner join in Power Query to get the "All Data" table. All data table contains 16,940 records compared to the original 20,000 records in the Transaction table.
-
 ## Customer Segmentation
 Customer segmentation allows businesses to group customers into distinct segments based on their shared characteristics, behaviors, and preferences. By identifying these segments, Sprocket can gain valuable insights into its customer base, enabling targeted marketing campaigns, personalized offerings, and improved customer experiences.
 
