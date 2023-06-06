@@ -80,4 +80,6 @@ Here is the link to the [Power Point Presentation.](https://github.com/Mevhare/K
 
 
 # Task 3
- 
+![]()
+![]()
+To access the dashboard, here's the [link](https://app.powerbi.com/view?r=eyJrIjoiMDAyNjkwZDgtMmViMi00MDYyLWFjNWMtYjUyMTY4ODFjYzAxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
