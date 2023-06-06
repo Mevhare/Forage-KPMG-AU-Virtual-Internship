@@ -79,7 +79,14 @@ A powerpoint report was made on Data Exploration; Model Development and Interpre
 Here is the link to the [Power Point Presentation.](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%202/Sprocket_Presenation.pptx)
 
 
-# Task 3
-![]()
-![]()
+# Task 3 : Data Insights and Presentation
+I developed a two paged dashboard that can presented to the Sprocket team to display insights discovered in the data provided and also present the results of the customer segmentation analysis using RFM features.
+
+Below are images of the dashboard created using Power BI.
+
+
+![Performance_Overview](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%203/Images/Performance_Overview.png)
+![RFM_Analysis](https://github.com/Mevhare/KPMG-Virtual-Internship/blob/main/Solution/Task%203/Images/RFM_Analysis.png)
+
+
 To access the dashboard, here's the [link](https://app.powerbi.com/view?r=eyJrIjoiMDAyNjkwZDgtMmViMi00MDYyLWFjNWMtYjUyMTY4ODFjYzAxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
