@@ -80,7 +80,7 @@ Here is the link to the [Power Point Presentation.](https://github.com/Mevhare/K
 
 
 # Task 3 : Data Insights and Presentation
-I developed a two paged dashboard that can presented to the Sprocket team to display insights discovered in the data provided and also present the results of the customer segmentation analysis using RFM features.
+I developed a two paged dashboard that can presented to the Sprocket team to display insights discovered in the data provided and present the results of the customer segmentation analysis using RFM features.
 
 Below are images of the dashboard created using Power BI.
 
